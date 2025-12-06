@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Society Maintenance Portal
 
 A comprehensive web application for managing society maintenance operations with separate modules for Admin, Resident, and Manager roles.
