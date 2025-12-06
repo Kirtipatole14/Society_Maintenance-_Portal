@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Society Maintenance Portal
 
 A comprehensive web application for managing society maintenance operations with separate modules for Admin, Resident, and Manager roles.
@@ -179,4 +180,3 @@ Society_project/
 - JWT tokens are stored in localStorage
 - CORS is configured to allow requests from localhost:3000
 - The application uses responsive design with Tailwind CSS
-
